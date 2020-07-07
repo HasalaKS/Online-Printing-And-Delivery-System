@@ -1,0 +1,36 @@
+
+#cart{
+  padding: 5px 20px 15px 20px;
+  border: 2px solid lightgrey;
+  border-radius: 5px;
+  font-family: 'Roboto Slab', serif;
+  font-size:17px;
+  font-weight: 600;
+  
+}
+#summary{
+float:center;
+width:50%;
+  padding: 5px 20px 15px 20px;
+  border: 2px solid lightgrey;
+  border-radius: 5px;
+  font-family: 'Roboto Slab', serif;
+  font-size:17px;
+  font-weight: 600;
+  
+}
+#checkout {
+  background-color: dodgerblue;
+  color: white;
+  padding: 12px;
+  margin: 10px 0;
+  border: none;
+  width: 50%;
+  border-radius: 3px;
+  cursor: pointer;
+  font-size: 17px;
+}
+
+#checkout:hover {
+  background-color: #45a049;
+}

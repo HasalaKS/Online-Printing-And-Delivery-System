@@ -1,0 +1,16 @@
+.output-container {
+    
+    width: 50%;
+    margin-bottom: 12px;	
+	font-size:18px;
+    font-weight: 600;
+    font-family: serif;
+	text-decoration:none;
+}
+
+.output-field {
+    width: 100%;
+    padding: 4px;
+	text-align:center;
+    
+}

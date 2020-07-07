@@ -1,0 +1,95 @@
+h2{
+	text-transform: uppercase;
+    font-weight: 600;
+    font-family: 'Roboto Slab', serif;
+	text-decoration:none;
+}
+.input-container {
+    
+    display: -ms-flexbox; /* IE10 */
+    display: flex;
+    width: 100%;
+    margin-bottom: 15px;
+
+	font-size:15px;
+    font-weight: 600;
+    font-family: 'Roboto Slab', serif;
+	text-decoration:none;
+}
+
+.icon {
+    padding: 15px;
+    background: dodgerblue;
+    color: white;
+    min-width: 50px;
+    text-align: center;
+	font-size:15px;
+}
+
+.input-field {
+    width: 100%;
+    padding: 10px;
+    outline: none;
+}
+
+/* Set a style for all buttons */
+.clearfix button {
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+    width: 100%;
+    opacity: 0.9;
+	text-transform: uppercase;
+	font-size:18px;
+    font-weight: 600;
+    font-family: 'Roboto Slab', serif;
+	text-decoration:none;
+}
+
+.clearfix button:hover {
+    opacity:1;
+}
+
+/* Extra styles for the cancel button */
+.cancelbtn {
+    padding: 14px 20px;
+    background-color: #f44336;
+}
+.clearfix .signupbtn{
+	padding: 14px 20px;
+    background-color: dodgerblue;
+}
+/* Float cancel and signup buttons and add an equal width */
+.clearfix .cancelbtn,.clearfix .signupbtn {
+  float: left;
+  width: 50%;
+}
+
+.forget{
+	text-transform: uppercase;
+	font-size:16px;
+    font-weight: 600;
+    font-family: 'Roboto Slab', serif;
+	text-decoration:none;
+	text-align:center;
+}
+
+.field{
+    
+    width: 70%;
+    margin-bottom: 15px;
+
+	font-size:15px;
+    font-weight: 600;
+    font-family: 'Roboto Slab', serif;
+	text-decoration:none;
+}
+
+
+.field {
+    width: 100%;
+    padding: 10px;
+    outline: none;
+}

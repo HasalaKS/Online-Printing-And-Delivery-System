@@ -1,0 +1,35 @@
+#p2{
+	width:auto%;
+	height:auto; 
+	padding:20px;
+	border-radius:10px;
+
+	overflow:hidden;
+	background-color:#F0F3F4;
+	opacity:0.7;
+	filter:alpha(opacity = 50);
+	
+}
+h5{
+	text-transform: uppercase;
+    font-weight: 600;
+    font-family: 'Roboto Slab', serif;
+}
+.addToCart{
+	text-transform: uppercase;
+    font-weight: 600;
+    font-family: 'Roboto Slab', serif;
+	font-size:17px;
+	
+}
+.size{
+    font-weight: 600;
+    font-family: 'Roboto Slab', serif;
+}
+
+.up{
+	
+    font-weight: 500;
+    font-family: 'Roboto Slab', serif;
+	font-size:15px;
+}
